@@ -1,0 +1,7 @@
+Open 140.116.20.10 21
+Sean
+nckucsie
+prompt
+cd client1
+mput mail.pdf
+bye
